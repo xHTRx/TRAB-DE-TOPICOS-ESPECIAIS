@@ -1,6 +1,9 @@
 # Trabalho de Tópicos Especiais - Lista de Exercicios em C#
 
-# NOME DOS INTEGRANTES: Bruna Mara Jung, Heitor Augusto Andrade, Jhanny Aparecida Rebeiko Pianovski
+## NOME DOS INTEGRANTES: 
+ - Bruna Mara Jung
+ - Heitor Augusto Andrade
+ - Jhanny Aparecida Rebeiko Pianovski
 
 
    **Explicação breve sobre cada exercicio:**
