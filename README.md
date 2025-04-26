@@ -15,7 +15,7 @@ O programa solicita que o usuário digite uma senha e realiza uma validação co
 Neste exercício, o usuário fornece um número e em seguioda o programa imprime a tabuada
 de 1 a 10 do numero, utilizando um laço *for*.
 
-3. Cálculo de Fatorial com while:
+**3. Cálculo de Fatorial com while:**
 O programa solicita um número inteiro positivo ao usuário e, utilizando um laço *while*, calcula o fatorial do número, multiplicando-o sucessivamente até chegar a 1.
 
 **4. Conversor de Temperaturas com Menu:**
