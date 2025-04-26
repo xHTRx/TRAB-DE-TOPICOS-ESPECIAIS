@@ -6,7 +6,7 @@
  - Jhanny Aparecida Rebeiko Pianovski
 
 
-   ##Explicação breve sobre cada exercicio:
+## Explicação breve sobre cada exercicio:
 
 **1. Validador de Senhas Fortes:**
 Este exercício solicita ao usuário que digite uma senha e verifica se ela atende a
