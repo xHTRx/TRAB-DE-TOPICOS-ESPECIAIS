@@ -9,17 +9,14 @@
 ## Explicação breve sobre cada exercicio:
 
 **1. Validador de Senhas Fortes:**
-Este exercício solicita ao usuário que digite uma senha e verifica se ela atende a
-critérios mínimos de segurança, como ter pelo menos *8 caracteres*, *conter ao
-menos uma letra maiúscula*, *um número e um caractere especial (como !, @, #)*.
+O programa solicita que o usuário digite uma senha e realiza uma validação completa, exigindo um comprimento mínimo de 8 caracteres, pelo menos uma letra maiúscula, um número e um caractere especial (como !, @, #, etc.). Se algum critério não for atendido, o sistema informa exatamente o que está faltando.
 
 **2. Tabuada Completa com Laço:**
-Neste exercício, o usuário fornece um número e o programa imprime sua tabuada
-de 1 a 10 utilizando um laço *for*.
+Neste exercício, o usuário fornece um número e em seguioda o programa imprime a tabuada
+de 1 a 10 do numero, utilizando um laço *for*.
 
-**3. Cálculo de Fatorial com while:**
-O programa solicita um número inteiro positivo e calcula seu fatorial (número *
-número – 1 * número -2....) utilizando um laço *while.*
+3. Cálculo de Fatorial com while:
+O programa solicita um número inteiro positivo ao usuário e, utilizando um laço *while*, calcula o fatorial do número, multiplicando-o sucessivamente até chegar a 1.
 
 **4. Conversor de Temperaturas com Menu:**
 Aqui, o programa apresenta um menu com três opções: converter de Celsius para
@@ -52,5 +49,4 @@ adivinhar esse número, recebendo dicas se ele deve chutar mais alto ou mais
 baixo, até acertar. O número de tentativas é contado.
 
 **10. Lista de Tarefas (To-Do List):**
-Neste exercício, o usuário pode adicionar tarefas a uma lista, visualizar todas elas
-e marcar as concluídas. Utiliza uma *List<string>* para armazenar os dados. 
+Neste exercício, o usuário pode adicionar tarefas a uma lista, marcar tarefas como concluídas (removendo-as da lista) e visualizar todas as tarefas restantes ao encerrar o programa. Utiliza uma *List<string>* para armazenar os dados e um *switch* para as opções do menu.
