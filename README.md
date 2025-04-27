@@ -51,10 +51,10 @@ baixo, até acertar. O número de tentativas é contado.
 **10. Lista de Tarefas (To-Do List):**
 Neste exercício, o usuário pode adicionar tarefas a uma lista, marcar tarefas como concluídas (removendo-as da lista) e visualizar todas as tarefas restantes ao encerrar o programa. Utiliza uma *List<string>* para armazenar os dados e um *switch* para as opções do menu.
 
-#Descrições Detalhadas dos dois exercicios:
+# Descrições Detalhadas dos dois exercicios:
 
 
-##Exercício 03 – Calculando fatorial
+## Exercício 03 – Calculando fatorial
 
 Contexto inicial: Este é um programa que calcula o fatorial de um número inteiro não negativo, que é a multiplicação desse número por todos os números inteiros positivos menores que ele, até chegar ao número 1 (Ex: O fatorial de 5 é: 5×4×3×2×1=120).
 
@@ -66,7 +66,7 @@ Após todo este processo, e a saída dos loops, é feita a exibição final do r
 
 
 
-##Exercício 9 - Jogo de Adivinhação
+## Exercício 9 - Jogo de Adivinhação
 
 Contexto inicial: O código foi escrito na linguagem de programação C#, com o objetivo de simular um jogo de adivinhação, no qual o computador sorteia um número entre 0 e 100 e o usuário tenta adivinhar esse número através de palpites, e a cada palpite o computador responde se o número digitado pelo usuário é maior ou menor do que o número sorteado pelo computador, a cada tentativa o computador marca o número de tentativas usadas pelo usuário até o acerto.
 
